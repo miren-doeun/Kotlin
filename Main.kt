@@ -1,7 +1,7 @@
 package com.survivalcoding.kotlinbasic
 
 import java.util.Scanner//scanner을 사용 하기 위해 선언해줘야한다.
-import javax.security.sasl.AuthorizeCallback
+import javax.security.sasl.AuthorizeCallback//callback을 사용하기 위해 선언해줘야 한다.
 import kotlin.math.max//max클래스를 사용하기 위해 선언해줘야한다.
 import kotlin.random.Random//random함수를 사용하기 위해 선언해줘야한다.
 
